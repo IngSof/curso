@@ -1,2 +1,2 @@
 # curso
-Repositorio de Inganieria de Software para el curso online. 
+Repositorio de Ingenieria de Software para el curso online. 
